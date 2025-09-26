@@ -1,11 +1,6 @@
 # Assignment 3: Understanding Algorithm Efficiency and Scalability  
 
-**Course:** [Course Name & Code]  
-**Student:** [Your Name]  
-**Professor:** [Professor’s Name]  
-**Date:** [Submission Date]  
 
----
 
 ## Executive Summary  
 This report presents a detailed analysis of two fundamental algorithms in computer science: **Randomized Quicksort** and **Hashing with Chaining**. Through theoretical analysis and empirical experimentation, we examine their efficiency characteristics, scalability properties, and performance under various conditions. The study demonstrates how algorithmic design choices significantly impact performance and provides insights into optimizing these algorithms for real-world applications.  
